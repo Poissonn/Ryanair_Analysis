@@ -21,7 +21,7 @@ from pathlib import Path
 
 random.seed(42)
 
-DATA_DIR = Path("/home/claude/ryanair_data")
+DATA_DIR = Path("/home/ryanair_data")
 
 # ---------------------------------------------------------------------------
 # 1. PARSE REAL SCRAPED REVIEWS
