@@ -10,7 +10,7 @@ Five visualisations are produced:
   fig_06_review_volume_time.png    Review volume over time
   fig_07_bigrams.png               Top bigrams (BoW)
 
-Outputs saved to /home/claude/ryanair_data/figs/
+Outputs saved to /home/ryanair_data/figs/
 """
 
 import re
