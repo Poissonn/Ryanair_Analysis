@@ -39,7 +39,7 @@ plt.rcParams["font.family"] = "DejaVu Sans"
 sns.set_style("whitegrid")
 PALETTE_RYANAIR = ["#073590", "#F1C40F", "#E74C3C", "#1ABC9C", "#9B59B6"]
 
-DATA_DIR = Path("/home/claude/ryanair_data")
+DATA_DIR = Path("/home/ryanair_data")
 FIG_DIR = DATA_DIR / "figs"
 FIG_DIR.mkdir(parents=True, exist_ok=True)
 
